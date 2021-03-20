@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "718013673144",
+    "project_id": "kabadify-1857c",
+    "storage_bucket": "kabadify-1857c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718013673144:android:01502278b69dd9b1634e4d",
+        "android_client_info": {
+          "package_name": "com.example.kabadifyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718013673144-n7prp1bhacmn2nain95okbprstd6jass.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kabadifyy",
+            "certificate_hash": "939ab5a119f5aaa17c4a6a7e06d89ff76e0cb919"
+          }
+        },
+        {
+          "client_id": "718013673144-e1eniu8lft8rdpr9nnajr859uchhefdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVSqlqlB-JKmTIZEgPyJs1qvsinj8j-bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718013673144-e1eniu8lft8rdpr9nnajr859uchhefdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

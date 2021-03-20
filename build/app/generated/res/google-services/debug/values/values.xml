@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">718013673144-e1eniu8lft8rdpr9nnajr859uchhefdi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">718013673144</string>
+    <string name="google_api_key" translatable="false">AIzaSyDVSqlqlB-JKmTIZEgPyJs1qvsinj8j-bk</string>
+    <string name="google_app_id" translatable="false">1:718013673144:android:01502278b69dd9b1634e4d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDVSqlqlB-JKmTIZEgPyJs1qvsinj8j-bk</string>
+    <string name="google_storage_bucket" translatable="false">kabadify-1857c.appspot.com</string>
+    <string name="project_id" translatable="false">kabadify-1857c</string>
+</resources>
