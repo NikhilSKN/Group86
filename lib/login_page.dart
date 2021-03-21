@@ -530,6 +530,7 @@ class _LoginPageState extends State<LoginPage>
                     child: GestureDetector(
                       onTap: () {
                         showInSnackBar("Google button pressed");
+                        //////Handle Exception
                         googleSignIn().whenComplete(() async {
                           User user = await FirebaseAuth.instance.currentUser;
                           final SharedPreferences sharedPreferences =
